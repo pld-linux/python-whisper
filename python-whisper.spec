@@ -1,7 +1,7 @@
 Summary:	Simple database library for storing time-series data
 Name:		python-whisper
 Version:	0.9.14
-Release:	1
+Release:	2
 License:	Apache v2.0
 Group:		Development/Libraries
 #		https://github.com/graphite-project/whisper/archive/0.9.12.tar.gz
