@@ -11,7 +11,7 @@ Source0:	https://github.com/graphite-project/whisper/archive/%{version}.tar.gz
 URL:		https://launchpad.net/graphite/
 BuildRequires:	python-setuptools
 BuildRequires:	rpm-pythonprov
-BuildRequires:	rpmbuild(macros) >= 1.219
+BuildRequires:	rpmbuild(macros) >= 1.710
 BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
